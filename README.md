@@ -6,7 +6,7 @@
 
 <div margin="100%" align="center" display="flex" justify-content="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=2AC3F7&center=true&vCenter=true&width=429&lines=Hi%2C+I'm+Alesssandra;I'm+21+years+old;I'm+from+Brazil;a+economics+student;and+aspiring+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=2AC3F7&center=true&vCenter=true&width=429&lines=Hi%2C+I'm+Alessandra;I'm+21+years+old;I'm+from+Brazil;a+economics+student;and+aspiring+programmer)](https://git.io/typing-svg)
 
 </div>
 
